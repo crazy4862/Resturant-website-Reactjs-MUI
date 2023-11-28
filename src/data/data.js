@@ -1,9 +1,9 @@
 import Dosa from "../images/dosa.jpg";
-import Chola from "../images/chhola.jpg";
+import Poori from "../images/chhola.jpg";
 import Idli from "../images/idli.jpg";
 import MasalaDosa from "../images/masala.jpg";
 import Paneer from "../images/paneer.jpg";
-import Gujrati from "../images/gujrati.jpeg";
+import Desispecial from "../images/gujrati.jpeg";
 
 export const MenuList = [
   {
@@ -14,10 +14,10 @@ export const MenuList = [
     price: 200,
   },
   {
-    name: "Chola",
+    name: "Poori",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Chola,
+    image: Poori,
     price: 250,
   },
   {
@@ -42,10 +42,10 @@ export const MenuList = [
     price: 400,
   },
   {
-    name: "Gujrati",
+    name: "Desi special",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Gujrati,
+    image: Desispecial,
     price: 500,
   },
 ];
